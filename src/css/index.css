@@ -1,0 +1,7 @@
+#wave {
+  width: 200px;
+  height: 400px;
+  margin: 10vh auto;
+  background-color: #ff3e81;
+  background-image: paint(wave);
+}
